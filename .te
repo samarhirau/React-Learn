@@ -1,0 +1,8 @@
+git hub cammands 
+
+-- git init 
+-- git git add .
+-- git commit -m 'start'
+-- git branch -M main
+-- git remote add origin http
+-- git push -u origin main
